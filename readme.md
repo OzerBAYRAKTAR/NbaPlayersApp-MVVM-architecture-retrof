@@ -1,5 +1,5 @@
 
-NbaPlayersApp
+## NbaPlayers Application Kotlin
 
 
 
@@ -9,15 +9,14 @@ https://api-nba-v1.p.rapidapi.com/players
 
 
 
-  
-
-  
-
 
 
 
   
-## Kullanılan Teknolojiler
+
+  
+
+ ## Kullanılan Teknolojiler
 
 * MVVM(Model-View-ViewModel)
 
@@ -30,4 +29,6 @@ https://api-nba-v1.p.rapidapi.com/players
 * Coroutines
 
 * Repository
+## Ekran Görüntüleri
+![nnnas](https://user-images.githubusercontent.com/105236639/201528450-7637cd53-dddf-4eef-8926-705135a0ac01.png)
   
